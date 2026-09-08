@@ -22,11 +22,6 @@ Interactive Excel dashboard for analyzing student academic performance.
 
 **Tools:** Excel, Pivot Tables, Charts, Data Visualization
 
-### Sales Performance Dashboard
-Business dashboard designed to analyze sales performance and identify trends.
-
-**Tools:** Excel, Pivot Tables, Data Visualization
-
 ## Currently Learning
 
 - Advanced SQL
