@@ -1,39 +1,35 @@
-Data Analyst Portfolio
+# Rutuja Malsane 
 
-About Me
+Aspiring Data Analyst focused on transforming data into meaningful insights using Python, SQL, Excel and Power BI.
 
-Aspiring Data Analyst learning Excel, SQL, Power BI and Python.
+## Skills
 
-Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas & NumPy
+- Data Cleaning
+- EDA
+- Data Visualization
+- Dashboard Development
+- Statistics
 
- Microsoft Excel
-Pivot Tables
-Data Visualization
-Dashboard Creation
-SQL (Learning)
-Power BI (Learning)
+## Featured Projects
 
-Project 1: Student Marks Dashboard
-Dashboard Screenshot
+### Student Marks Dashboard
+Interactive Excel dashboard for analyzing student academic performance.
 
-[Student Dashboard](student_dashboard.png)
+**Tools:** Excel, Pivot Tables, Charts, Data Visualization
 
-Tools Used
+### Sales Performance Dashboard
+Business dashboard designed to analyze sales performance and identify trends.
 
-Microsoft Excel
+**Tools:** Excel, Pivot Tables, Data Visualization
 
- Features
+## Currently Learning
 
-Total Marks Calculation
-Percentage Calculation
-Grade Assignment
-Dashboard Metrics
-Charts and Visualization
-
-Files
-
-Student_Marks_Dashboard.xlsx
-
-Contact
-
-GitHub: rutujamalsane320-sketch
+- Advanced SQL
+- Power BI
+- Machine Learning
+- Data Science
